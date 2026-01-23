@@ -21,5 +21,10 @@ leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/dakshit19/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/dakshit19/leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
