@@ -7,8 +7,17 @@ leetcode solutions
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
