@@ -7,6 +7,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/dakshit19/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
 ## Binary Search
@@ -22,6 +23,7 @@ leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/dakshit19/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/dakshit19/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
@@ -41,6 +43,7 @@ leetcode solutions
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/dakshit19/leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
