@@ -17,6 +17,7 @@ leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/dakshit19/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/dakshit19/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/dakshit19/leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Linked List
 |  |
 | ------- |
