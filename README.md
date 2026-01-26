@@ -36,6 +36,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dakshit19/leetcode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/dakshit19/leetcode/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,4 +50,8 @@ leetcode solutions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dakshit19/leetcode/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/dakshit19/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
