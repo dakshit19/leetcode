@@ -25,6 +25,7 @@ leetcode solutions
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/dakshit19/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dakshit19/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/dakshit19/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/dakshit19/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
@@ -37,6 +38,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dakshit19/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dakshit19/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/dakshit19/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/dakshit19/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dakshit19/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -61,4 +63,5 @@ leetcode solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dakshit19/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dakshit19/leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
