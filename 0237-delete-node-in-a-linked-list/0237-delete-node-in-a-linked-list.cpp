@@ -13,5 +13,6 @@ public:
         node->val= temp->val;
         node->next= temp->next;
         temp->next= nullptr;
+        delete temp;
     }
 };
