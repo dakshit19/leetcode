@@ -8,6 +8,7 @@ leetcode solutions
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/dakshit19/leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/dakshit19/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/dakshit19/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/dakshit19/leetcode/tree/master/0169-majority-element) |
@@ -87,4 +88,12 @@ leetcode solutions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/dakshit19/leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dakshit19/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dakshit19/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
