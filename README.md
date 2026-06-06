@@ -10,6 +10,7 @@ leetcode solutions
 | [0053-maximum-subarray](https://github.com/dakshit19/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/dakshit19/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/dakshit19/leetcode/tree/master/0090-subsets-ii) |
 | [0162-find-peak-element](https://github.com/dakshit19/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/dakshit19/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
@@ -92,8 +93,10 @@ leetcode solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dakshit19/leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/dakshit19/leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dakshit19/leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/dakshit19/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
