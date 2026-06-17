@@ -51,6 +51,7 @@ leetcode solutions
 | [0206-reverse-linked-list](https://github.com/dakshit19/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dakshit19/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/dakshit19/leetcode/tree/master/1669-merge-in-between-linked-lists) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/dakshit19/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,4 +103,8 @@ leetcode solutions
 | ------- |
 | [0078-subsets](https://github.com/dakshit19/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dakshit19/leetcode/tree/master/0090-subsets-ii) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/dakshit19/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
