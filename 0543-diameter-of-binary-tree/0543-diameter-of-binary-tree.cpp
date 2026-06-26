@@ -11,25 +11,29 @@
  */
 class Solution {
 public:
-    int height(TreeNode* node){
-        if (node == nullptr) return 0;
-        int lh= height(node->left);
-        int rh= height(node->right);
-
-        return 1+ max(lh,rh);
-    }
-
-    int max_ht= INT_MIN;
     int diameterOfBinaryTree(TreeNode* root) {
-        if (!root) return 0;
-
-        int lh= height(root->left);
-        int rh= height(root->right);
-        max_ht= max(max_ht, lh+rh);
-
-        diameterOfBinaryTree(root->left);
-        diameterOfBinaryTree(root->right);
-
-        return max_ht;
+        stack<TreeNode*> s;
+        unordered_map<TreeNode*, int /* diameter*/> m;
+        if (root) s.push(root);
+        int res=0;
+        
+        while(!s.empty()){
+            TreeNode* curr= s.top();
+            if (curr->left && m.find(curr->left)==m.end()){
+                s.push(curr->left);
+            } else if (curr->right && m.find(curr->right)==m.end()){
+                s.push(curr->right);
+            } else {
+                s.pop();
+                int leftHeight = curr->left ? m[curr->left] : 0;
+                int rightHeight = curr->right ? m[curr->right] : 0;
+                // Store height of current node
+                m[curr] = 1 + max(leftHeight, rightHeight);
+                // Update diameter
+                res = max(res, leftHeight + rightHeight);
+            }
+        }
+        
+        return res;
     }
 };
