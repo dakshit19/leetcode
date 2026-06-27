@@ -113,6 +113,7 @@ leetcode solutions
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dakshit19/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dakshit19/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0110-balanced-binary-tree) |
@@ -122,6 +123,7 @@ leetcode solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dakshit19/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dakshit19/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -130,11 +132,13 @@ leetcode solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dakshit19/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dakshit19/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dakshit19/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dakshit19/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0110-balanced-binary-tree) |
