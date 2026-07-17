@@ -15,6 +15,7 @@ leetcode solutions
 | [0162-find-peak-element](https://github.com/dakshit19/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/dakshit19/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/dakshit19/leetcode/tree/master/0283-move-zeroes) |
 | [0986-interval-list-intersections](https://github.com/dakshit19/leetcode/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
@@ -38,6 +39,7 @@ leetcode solutions
 | [0148-sort-list](https://github.com/dakshit19/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/dakshit19/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/dakshit19/leetcode/tree/master/0283-move-zeroes) |
 | [0986-interval-list-intersections](https://github.com/dakshit19/leetcode/tree/master/0986-interval-list-intersections) |
 ## String
 |  |
