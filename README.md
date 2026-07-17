@@ -16,6 +16,7 @@ leetcode solutions
 | [0169-majority-element](https://github.com/dakshit19/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dakshit19/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/dakshit19/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0986-interval-list-intersections](https://github.com/dakshit19/leetcode/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
