@@ -10,6 +10,7 @@ leetcode solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/dakshit19/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/dakshit19/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/dakshit19/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/dakshit19/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/dakshit19/leetcode/tree/master/0090-subsets-ii) |
@@ -35,6 +36,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dakshit19/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/dakshit19/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dakshit19/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dakshit19/leetcode/tree/master/0141-linked-list-cycle) |
@@ -72,6 +74,7 @@ leetcode solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/dakshit19/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/dakshit19/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dakshit19/leetcode/tree/master/0169-majority-element) |
