@@ -30,6 +30,7 @@ leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dakshit19/leetcode/tree/master/0002-add-two-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/dakshit19/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/dakshit19/leetcode/tree/master/0509-fibonacci-number) |
@@ -58,6 +59,7 @@ leetcode solutions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dakshit19/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/dakshit19/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/dakshit19/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dakshit19/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -87,6 +89,7 @@ leetcode solutions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dakshit19/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/dakshit19/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/dakshit19/leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/dakshit19/leetcode/tree/master/0509-fibonacci-number) |
