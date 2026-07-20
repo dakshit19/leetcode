@@ -1,46 +1,26 @@
 class Solution {
 public:
-    vector<int> parent, rank;
+    void dfs(const vector<vector<int>>& isConnected,
+             vector<bool>& visited, int node) {
 
-    int find(int x) {
-        if (parent[x] != x)
-            parent[x] = find(parent[x]);
-        return parent[x];
-    }
+        visited[node] = true;
 
-    void unite(int x, int y) {
-        int px = find(x);
-        int py = find(y);
-
-        if (px == py) return;
-
-        if (rank[px] < rank[py])
-            parent[px] = py;
-        else if (rank[px] > rank[py])
-            parent[py] = px;
-        else {
-            parent[py] = px;
-            rank[px]++;
+        for (int neighbour = 0; neighbour < isConnected.size(); neighbour++) {
+            if (isConnected[node][neighbour] && !visited[neighbour]) {
+                dfs(isConnected, visited, neighbour);
+            }
         }
     }
 
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n = isConnected.size();
-
-        parent.resize(n);
-        rank.assign(n, 0);
-
-        for (int i = 0; i < n; i++)
-            parent[i] = i;
-
-        int provinces = n;
+        vector<bool> visited(n, false);
+        int provinces = 0;
 
         for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if (isConnected[i][j] && find(i) != find(j)) {
-                    unite(i, j);
-                    provinces--;
-                }
+            if (!visited[i]) {
+                dfs(isConnected, visited, i);
+                provinces++;
             }
         }
 
