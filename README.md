@@ -22,6 +22,7 @@ leetcode solutions
 | [0283-move-zeroes](https://github.com/dakshit19/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dakshit19/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0986-interval-list-intersections](https://github.com/dakshit19/leetcode/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/dakshit19/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@ leetcode solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/dakshit19/leetcode/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/dakshit19/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -202,4 +204,5 @@ leetcode solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dakshit19/leetcode/tree/master/0054-spiral-matrix) |
+| [0994-rotting-oranges](https://github.com/dakshit19/leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
