@@ -1,54 +1,49 @@
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int row= grid.size();
-        int colm= grid[0].size();
-        vector<vector<int>> arr(row, vector<int>(colm, 0)); // has rotten oranges 
-        queue<pair<pair<int, int>, int>> q; // {row, colm}, time
-        // mark intial rotten and put in queue to traverse neighbours
-        for (int i=0; i<row; i++) { 
-            for (int j=0; j<colm; j++) {
+        int rows= grid.size();
+        int colms= grid[0].size();
+        int arr[rows][colms];
+        queue<pair<pair<int, int>, int>> q; // row, colm, time
+
+        //initializing grid
+        for (int i=0; i<rows; i++) {
+            for (int j=0; j<colms; j++) {
                 if (grid[i][j]==2) {
                     q.push({{i, j}, 0});
                     arr[i][j]=2;
-                }
+                } else arr[i][j]= 0;
             }
         }
-        int mnts=0;
+
+        int minutes=0;
+        int dr[]= {0,0,+1,-1};
+        int dc[]= {-1,+1,0, 0};
         while (!q.empty()) {
             auto curr= q.front();
             q.pop();
-            int curr_row= curr.first.first;
-            int curr_colm= curr.first.second;
-            int curr_time= curr.second;
-            mnts= max(mnts, curr_time);
-            // row, col+1
-            if (curr_row>=0 && curr_row<row && curr_colm>=0 && curr_colm+1<colm && grid[curr_row][curr_colm+1]==1 && arr[curr_row][curr_colm+1]!=2){
-                arr[curr_row][curr_colm+1]= 2;
-                q.push({{curr_row, curr_colm+1}, curr_time+1});
-            }
-            // row+1, col
-            if (curr_row>=0 && curr_row+1<row && curr_colm>=0 && curr_colm<colm && grid[curr_row+1][curr_colm]==1 && arr[curr_row+1][curr_colm]!=2) {
-                arr[curr_row+1][curr_colm]= 2;
-                q.push({{curr_row+1, curr_colm}, curr_time+1});
-            }
-            // row-1, col
-            if (curr_row-1>=0 && curr_row<row && curr_colm>=0 && curr_colm<colm && grid[curr_row-1][curr_colm]==1 && arr[curr_row-1][curr_colm]!=2) {
-                arr[curr_row-1][curr_colm]= 2;
-                q.push({{curr_row-1, curr_colm}, curr_time+1});
-            }
-            // row, col-1
-            if (curr_row>=0 && curr_row<row && curr_colm-1>=0 && curr_colm<colm && grid[curr_row][curr_colm-1]==1 && arr[curr_row][curr_colm-1]!=2) {
-                arr[curr_row][curr_colm-1]= 2;
-                q.push({{curr_row, curr_colm-1}, curr_time+1});
+            int cr= curr.first.first;
+            int cc= curr.first.second;
+            int ct= curr.second;
+            minutes= max(minutes, ct);
+            //check all neighbours
+            for (int i=0; i<4; i++) {
+                int r= cr+ dr[i];
+                int c= cc+ dc[i];
+                if (r<rows && c<colms && r>=0 && c>=0 && grid[r][c]==1 && arr[r][c]!=2){
+                    arr[r][c]=2;
+                    q.push({{r, c}, ct+1});
+                }
             }
         }
+
         //check for -1 condition
-        for (int i=0; i<row; i++) {
-            for (int j=0; j<colm; j++) {
-                if (grid[i][j]==1 && arr[i][j]!=2) return -1;
+        for (int i=0; i<rows; i++) {
+            for (int j=0; j<colms; j++) {
+                if (arr[i][j]!=2 && grid[i][j]==1) return -1;
             }
         }
-        return mnts;
+
+        return minutes;
     }
 };
