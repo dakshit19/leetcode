@@ -1,34 +1,49 @@
 class Solution {
 public:
-    void solve(vector<vector<int>>& image, int r, int c,
-               int original, int color) {
+    void solve(queue<pair<int, int>> &q, vector<vector<int>> &grid,
+               int color, vector<int> &dr, vector<int> &dc, int originalColor) {
 
-        int rows = image.size();
-        int cols = image[0].size();
+        if (q.empty()) return;
 
-        if(r < 0 || r >= rows || c < 0 || c >= cols)
-            return;
+        auto curr = q.front();
+        q.pop();
 
-        if(image[r][c] != original)
-            return;
+        int row = curr.first;
+        int colm = curr.second;
 
-        image[r][c] = color;
+        grid[row][colm] = color;
 
-        solve(image, r+1, c, original, color);
-        solve(image, r-1, c, original, color);
-        solve(image, r, c+1, original, color);
-        solve(image, r, c-1, original, color);
+        // check neighbours
+        for (int i = 0; i < 4; i++) {
+            int cr = row + dr[i];
+            int cc = colm + dc[i];
+
+            if (cr >= 0 && cr < grid.size() &&
+                cc >= 0 && cc < grid[0].size() &&
+                grid[cr][cc] == originalColor) {
+
+                grid[cr][cc] = color;      // mark visited
+                q.push({cr, cc});
+            }
+        }
+
+        solve(q, grid, color, dr, dc, originalColor);
     }
 
-    vector<vector<int>> floodFill(vector<vector<int>>& image,
-                                  int sr, int sc, int color) {
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
 
-        int original = image[sr][sc];
-
-        if(original == color)
+        if (image[sr][sc] == color)
             return image;
 
-        solve(image, sr, sc, original, color);
+        int originalColor = image[sr][sc];
+
+        vector<int> dr = {0, 0, -1, 1};
+        vector<int> dc = {1, -1, 0, 0};
+
+        queue<pair<int, int>> q;
+        q.push({sr, sc});
+
+        solve(q, image, color, dr, dc, originalColor);
 
         return image;
     }
