@@ -19,6 +19,7 @@ leetcode solutions
 | [0162-find-peak-element](https://github.com/dakshit19/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/dakshit19/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/dakshit19/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/dakshit19/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dakshit19/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/dakshit19/leetcode/tree/master/0733-flood-fill) |
@@ -83,6 +84,7 @@ leetcode solutions
 | [0088-merge-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/dakshit19/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dakshit19/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/dakshit19/leetcode/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
@@ -103,6 +105,7 @@ leetcode solutions
 | [0141-linked-list-cycle](https://github.com/dakshit19/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dakshit19/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/dakshit19/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/dakshit19/leetcode/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -115,6 +118,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dakshit19/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/dakshit19/leetcode/tree/master/0229-majority-element-ii) |
 ## Memoization
 |  |
 | ------- |
