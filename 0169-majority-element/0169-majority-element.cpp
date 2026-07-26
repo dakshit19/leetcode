@@ -1,14 +1,18 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int ans=0, freq=0, n=nums.size();
+        int n= nums.size();
+        int count=0;
+        int candidate= -1;
 
-        for (int i=0; i<n; i++){
-            if (freq==0) ans= nums[i];
-            if (ans==nums[i]) freq++;
-            else freq--;
+        for (int i=0; i<n; i++) {
+            if (count==0) { // update candidate
+                candidate= nums[i];
+                count++;
+            } else if (nums[i]==candidate) count++; // element same as candidate
+            else count--; // element not same as candidate
         }
 
-        return ans;
+        return candidate;
     }
 };
