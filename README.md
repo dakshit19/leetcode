@@ -25,6 +25,7 @@ leetcode solutions
 | [0733-flood-fill](https://github.com/dakshit19/leetcode/tree/master/0733-flood-fill) |
 | [0986-interval-list-intersections](https://github.com/dakshit19/leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/dakshit19/leetcode/tree/master/0994-rotting-oranges) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshit19/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@ leetcode solutions
 | [0169-majority-element](https://github.com/dakshit19/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dakshit19/leetcode/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshit19/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -213,4 +215,8 @@ leetcode solutions
 | [0054-spiral-matrix](https://github.com/dakshit19/leetcode/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/dakshit19/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/dakshit19/leetcode/tree/master/0994-rotting-oranges) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshit19/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
