@@ -26,6 +26,7 @@ leetcode solutions
 | [0986-interval-list-intersections](https://github.com/dakshit19/leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/dakshit19/leetcode/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshit19/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dakshit19/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dakshit19/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@ leetcode solutions
 | [0171-excel-sheet-column-number](https://github.com/dakshit19/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/dakshit19/leetcode/tree/master/0509-fibonacci-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dakshit19/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
