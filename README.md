@@ -64,6 +64,7 @@ leetcode solutions
 | [0125-valid-palindrome](https://github.com/dakshit19/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dakshit19/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/dakshit19/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dakshit19/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
 | ------- |
@@ -93,6 +94,7 @@ leetcode solutions
 | [0229-majority-element-ii](https://github.com/dakshit19/leetcode/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshit19/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dakshit19/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -227,4 +229,8 @@ leetcode solutions
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshit19/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/dakshit19/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
