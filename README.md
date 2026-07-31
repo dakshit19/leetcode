@@ -7,6 +7,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dakshit19/leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/dakshit19/leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/dakshit19/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/dakshit19/leetcode/tree/master/0053-maximum-subarray) |
@@ -48,6 +49,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dakshit19/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/dakshit19/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/dakshit19/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dakshit19/leetcode/tree/master/0125-valid-palindrome) |
