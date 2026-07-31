@@ -1,13 +1,13 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        int n = word.size();
-        int ans = 0;
+        int n= word.size();
+        int res=0;
 
-        for (int i = 0; i < n; i++) {
-            ans += (i / 8) + 1;
+        for (int i=0; i<n; i++) {
+            res= res+ (i/8)+1;
         }
 
-        return ans;
+        return res;
     }
 };
