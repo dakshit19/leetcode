@@ -8,11 +8,11 @@ public:
         for (int i=0; i<n; i++) {
             if (nums[i]==cand1) freq_cand1++;
             else if (nums[i]==cand2) freq_cand2++;
-            else if (freq_cand1==0 && nums[i]!=cand2) {
+            else if (freq_cand1==0 ) {
                 cand1= nums[i];
                 freq_cand1=1;
             } 
-            else if (freq_cand2==0 && nums[i]!=cand1) {
+            else if (freq_cand2==0) {
                 cand2= nums[i];
                 freq_cand2=1;
             } else {
