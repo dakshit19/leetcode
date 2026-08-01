@@ -5,7 +5,7 @@ public:
         if(n==0) return 0;
 
         int count=1, maxCount=1, i=0;
-        unordered_set<int> st;
+        unordered_set<char> st;
         st.insert(s[0]);
 
         for (int j=1; j<n; j++) {
