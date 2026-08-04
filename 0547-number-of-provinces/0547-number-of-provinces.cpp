@@ -1,29 +1,26 @@
 class Solution {
 public:
-    void dfs(const vector<vector<int>>& isConnected,
-             vector<bool>& visited, int node) {
-
-        visited[node] = true;
-
-        for (int neighbour = 0; neighbour < isConnected.size(); neighbour++) {
-            if (isConnected[node][neighbour] && !visited[neighbour]) {
-                dfs(isConnected, visited, neighbour);
+    void helper(int node, vector<vector<int>> mat, vector<bool> &vis) {
+        vis[node]= true;
+        for (int j=0; j<vis.size(); j++) {
+            if (mat[node][j]== 1 && vis[j]==false) {
+                helper(j, mat, vis);
             }
         }
     }
 
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int n = isConnected.size();
-        vector<bool> visited(n, false);
-        int provinces = 0;
+        int v= isConnected.size();
+        vector<bool> vis(v, false);
+        int province=0;
 
-        for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                dfs(isConnected, visited, i);
-                provinces++;
+        for (int i=0; i<v; i++) {
+            if (vis[i]==false) {
+                province++;
+                helper(i, isConnected, vis);
             }
         }
 
-        return provinces;
+        return province;
     }
 };
