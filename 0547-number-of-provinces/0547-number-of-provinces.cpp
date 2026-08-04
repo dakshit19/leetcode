@@ -10,6 +10,9 @@ public:
     }
 
     int findCircleNum(vector<vector<int>>& isConnected) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        
         int v= isConnected.size();
         vector<bool> vis(v, false);
         int province=0;
