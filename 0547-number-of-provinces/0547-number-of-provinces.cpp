@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void helper(int node, vector<vector<int>> mat, vector<bool> &vis) {
+    void helper(int node,const vector<vector<int>> &mat, vector<bool> &vis) {
         vis[node]= true;
         for (int j=0; j<vis.size(); j++) {
             if (mat[node][j]== 1 && vis[j]==false) {
