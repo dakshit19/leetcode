@@ -1,50 +1,28 @@
-
 class Solution {
 public:
-    void solve(queue<pair<int, int>> &q, vector<vector<int>> &grid,
-               int color, vector<int> &dr, vector<int> &dc, int originalColor) {
+    void solve(vector<vector<int>> &img, int r, int c, int oldcolor, int color) {
+        int n= img.size();
+        int m= img[0].size();
+        // boundary check
+        if (r<0 || r>=n || c<0 || c>=m) return;
 
-        if (q.empty()) return;
+        if (img[r][c]!= oldcolor) return;
+        if (img[r][c]==color) return;
 
-        auto curr = q.front();
-        q.pop();
+        img[r][c]= color;
 
-        int row = curr.first;
-        int colm = curr.second;
-
-        grid[row][colm] = color;
-
-        // check neighbours
-        for (int i = 0; i < 4; i++) {
-            int cr = row + dr[i];
-            int cc = colm + dc[i];
-
-            if (cr >= 0 && cr < grid.size() &&
-                cc >= 0 && cc < grid[0].size() &&
-                grid[cr][cc] == originalColor) {
-
-                grid[cr][cc] = color;      // mark visited
-                q.push({cr, cc});
-            }
-        }
-
-        solve(q, grid, color, dr, dc, originalColor);
+        solve(img, r-1, c, oldcolor, color);
+        solve(img, r+1, c, oldcolor, color);
+        solve(img, r, c-1, oldcolor, color);
+        solve(img, r, c+1, oldcolor, color);
+        return;
     }
 
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+        int oldcolor= image[sr][sc];
+        if (oldcolor==color) return image;
 
-        if (image[sr][sc] == color)
-            return image;
-
-        int originalColor = image[sr][sc];
-
-        vector<int> dr = {0, 0, -1, 1};
-        vector<int> dc = {1, -1, 0, 0};
-
-        queue<pair<int, int>> q;
-        q.push({sr, sc});
-
-        solve(q, image, color, dr, dc, originalColor);
+        solve(image, sr, sc, oldcolor, color);
 
         return image;
     }
