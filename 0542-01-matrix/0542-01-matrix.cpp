@@ -1,6 +1,8 @@
 class Solution {
 public:
-    vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
+    vector<vector<int>> updateMatrix(const vector<vector<int>>& mat) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         int n= mat.size();
         int m= mat[0].size();
         queue<pair<pair<int, int>, int>> q; // row, col, dist
