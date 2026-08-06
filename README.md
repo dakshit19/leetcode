@@ -25,6 +25,7 @@ leetcode solutions
 | [0229-majority-element-ii](https://github.com/dakshit19/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/dakshit19/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dakshit19/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0542-01-matrix](https://github.com/dakshit19/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dakshit19/leetcode/tree/master/0733-flood-fill) |
 | [0986-interval-list-intersections](https://github.com/dakshit19/leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/dakshit19/leetcode/tree/master/0994-rotting-oranges) |
@@ -134,6 +135,7 @@ leetcode solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshit19/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dakshit19/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/dakshit19/leetcode/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/dakshit19/leetcode/tree/master/0542-01-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -192,6 +194,7 @@ leetcode solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/dakshit19/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dakshit19/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0542-01-matrix](https://github.com/dakshit19/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/dakshit19/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/dakshit19/leetcode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -235,6 +238,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dakshit19/leetcode/tree/master/0054-spiral-matrix) |
+| [0542-01-matrix](https://github.com/dakshit19/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dakshit19/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/dakshit19/leetcode/tree/master/0994-rotting-oranges) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dakshit19/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
