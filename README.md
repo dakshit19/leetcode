@@ -49,6 +49,7 @@ leetcode solutions
 | [0171-excel-sheet-column-number](https://github.com/dakshit19/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/dakshit19/leetcode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/dakshit19/leetcode/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dakshit19/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dakshit19/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
@@ -120,6 +121,7 @@ leetcode solutions
 | [0050-powx-n](https://github.com/dakshit19/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/dakshit19/leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/dakshit19/leetcode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/dakshit19/leetcode/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
