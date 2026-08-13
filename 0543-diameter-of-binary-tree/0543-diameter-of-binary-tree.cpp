@@ -10,6 +10,9 @@ public:
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+
         if (root == nullptr) return 0;
 
         int currentDia= height(root->left) + height(root->right);
