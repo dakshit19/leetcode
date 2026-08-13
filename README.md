@@ -272,4 +272,8 @@ leetcode solutions
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/dakshit19/leetcode/tree/master/0229-majority-element-ii) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
