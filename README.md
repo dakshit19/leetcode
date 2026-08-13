@@ -275,5 +275,6 @@ leetcode solutions
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/dakshit19/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
