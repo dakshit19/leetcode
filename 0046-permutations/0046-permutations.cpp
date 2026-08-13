@@ -1,20 +1,34 @@
 class Solution {
 public:
-    void fun(vector<vector<int>> &res, vector<int> &nums, int idx){
-        if (idx== nums.size()){
-            res.push_back(nums);
+    void permut_helper(vector<vector<int>> &res, vector<int> curr, int n, vector<int> nums) {
+        if (curr.size()==n && nums.size()==0) {
+            res.push_back(curr);
             return;
+        } 
+        for (int i = 0; i < nums.size(); i++) {
+            
+            // choose
+            curr.push_back(nums[i]);
+
+            // remove chosen element
+            vector<int> remaining = nums;
+            remaining.erase(remaining.begin() + i);
+
+            // recurse
+            permut_helper(res, curr, n, remaining);
+
+            // undo choice
+            curr.pop_back();
         }
-        for(int i=idx; i<nums.size(); i++){
-            swap(nums[idx], nums[i]);
-            fun(res, nums, idx+1);
-            swap(nums[idx], nums[i]);
-        }        
     }
 
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> result;
-        fun(result, nums, 0);
-        return result;
+        vector<vector<int>> res;
+        vector<int> curr;
+        int n= nums.size();
+
+        permut_helper(res, curr, n, nums);
+        
+        return res;
     }
 };
