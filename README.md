@@ -10,6 +10,7 @@ leetcode solutions
 | [0031-next-permutation](https://github.com/dakshit19/leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/dakshit19/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/dakshit19/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/dakshit19/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dakshit19/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/dakshit19/leetcode/tree/master/0075-sort-colors) |
@@ -102,6 +103,7 @@ leetcode solutions
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/dakshit19/leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/dakshit19/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/dakshit19/leetcode/tree/master/0148-sort-list) |
@@ -158,6 +160,7 @@ leetcode solutions
 | ------- |
 | [0022-generate-parentheses](https://github.com/dakshit19/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/dakshit19/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/dakshit19/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/dakshit19/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dakshit19/leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
