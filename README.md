@@ -74,6 +74,7 @@ leetcode solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/dakshit19/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/dakshit19/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/dakshit19/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/dakshit19/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/dakshit19/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dakshit19/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/dakshit19/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -137,6 +138,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dakshit19/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/dakshit19/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/dakshit19/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshit19/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dakshit19/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -154,6 +156,7 @@ leetcode solutions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dakshit19/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/dakshit19/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/dakshit19/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dakshit19/leetcode/tree/master/0090-subsets-ii) |
@@ -277,4 +280,8 @@ leetcode solutions
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dakshit19/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/dakshit19/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
