@@ -4,7 +4,6 @@ public:
         if (close>open) return;
         if (close==open && curr.size()==2*n) {
             res.push_back(curr);
-            curr="";
             return;
         }
         if (open<n) paranth_helper(res, n, curr+"(", open+1, close); //adding open
