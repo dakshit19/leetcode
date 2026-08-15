@@ -80,6 +80,7 @@ leetcode solutions
 | [0151-reverse-words-in-a-string](https://github.com/dakshit19/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/dakshit19/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dakshit19/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/dakshit19/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dakshit19/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
@@ -163,12 +164,14 @@ leetcode solutions
 | [0047-permutations-ii](https://github.com/dakshit19/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/dakshit19/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dakshit19/leetcode/tree/master/0090-subsets-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/dakshit19/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dakshit19/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dakshit19/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/dakshit19/leetcode/tree/master/0136-single-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/dakshit19/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
 | ------- |
