@@ -5,9 +5,9 @@ public:
             res.push_back(curr);
             return;
         }
-        // add open
-        if (open<n) paraHelper(res, curr+'(',open+1, close, n);
-        if (close<open) paraHelper(res, curr+')', open, close+1, n);
+        
+        if (open<n) paraHelper(res, curr+'(',open+1, close, n); //add open
+        if (close<open) paraHelper(res, curr+')', open, close+1, n);// add close
     }
     vector<string> generateParenthesis(int n) {
         vector<string> res;
