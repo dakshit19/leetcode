@@ -1,22 +1,21 @@
 class Solution {
 public:
-    void helper(int n, vector<string> &res, string curr) {
-        if (curr.size()==n) {
+    void solve(int n, vector<string> &res, string curr) {
+        if (curr.size()==n){ //base case
             res.push_back(curr);
             return;
         }
         //take 1
-        helper(n, res, curr+'1');
-        //check if valid then insert 0
-        if (curr.empty()||curr.back()=='1'){
-            helper(n, res, curr+'0');
+        solve(n, res, curr+'1');
+        //take 0
+        if (curr.empty()||curr.back()=='1') {
+            solve(n, res, curr+'0');
         }
+        return;
     }
     vector<string> validStrings(int n) {
         vector<string> res;
-        string curr="";
-
-        helper(n, res, curr);
+        solve(n, res, "");
         return res;
     }
 };
