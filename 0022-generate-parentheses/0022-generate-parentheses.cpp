@@ -1,19 +1,20 @@
 class Solution {
 public:
-    void paranth_helper(vector<string> &res, int n, string curr, int open, int close) {
-        if (close>open) return;
-        if (close==open && curr.size()==2*n) {
+    void paraHelper(vector<string> &res, string curr, int open, int close, int n) {
+        if (curr.size()==2*n && open==close) {
             res.push_back(curr);
             return;
         }
-        if (open<n) paranth_helper(res, n, curr+"(", open+1, close); //adding open
-        if (close<open) paranth_helper(res, n, curr+")", open, close+1); //adding close
+        // add open
+        if (open<n) paraHelper(res, curr+'(',open+1, close, n);
+        if (close<open) paraHelper(res, curr+')', open, close+1, n);
     }
-
     vector<string> generateParenthesis(int n) {
         vector<string> res;
+        string curr="";
 
-        paranth_helper(res, n, "", 0, 0);
+        paraHelper(res, curr, 0, 0, n);
+
         return res;
     }
 };
