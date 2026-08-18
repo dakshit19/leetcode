@@ -1,31 +1,26 @@
 class Solution {
 public:
-    bool isexist(vector<int> &ans, vector<vector<int>> &res){
-        return find(res.begin(), res.end(), ans) != res.end();
-    }
-
-    void fun(vector<vector<int>> &result, vector<int> &ans, vector<int> &nums, int i){
-        if (i==nums.size()){
-            if (!isexist(ans, result)){
-                result.push_back(ans);
-            }
+    void subshelper(const vector<int> &nums, vector<vector<int>> &res, vector<int> curr, int idx) {
+        if (idx== nums.size()) {
+            res.push_back(curr);
             return;
         }
-        
-        //include
-        ans.push_back(nums[i]);
-        fun(result, ans, nums, i+1);
+        curr.push_back(nums[idx]);
+        subshelper(nums, res, curr, idx+1);
 
-        ans.pop_back(); //backtracking
-        fun(result, ans, nums, i+1);
+        //backtrack
+        curr.pop_back();
+        while (idx+1<nums.size() && nums[idx]== nums[idx+1]) {
+            idx++;
+        }
+        subshelper(nums, res, curr, idx+1);
+        return;
     }
-
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        vector<vector<int>> result;
-        vector<int> ans;
+        vector<vector<int>> res;
+        vector<int> curr;
         sort(nums.begin(), nums.end());
-
-        fun(result, ans, nums, 0);
-        return result;
+        subshelper(nums, res, curr, 0);
+        return res;
     }
 };
