@@ -55,6 +55,7 @@ leetcode solutions
 | [1922-count-good-numbers](https://github.com/dakshit19/leetcode/tree/master/1922-count-good-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dakshit19/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dakshit19/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/dakshit19/leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +129,7 @@ leetcode solutions
 | [0206-reverse-linked-list](https://github.com/dakshit19/leetcode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/dakshit19/leetcode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/dakshit19/leetcode/tree/master/1922-count-good-numbers) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/dakshit19/leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Hash Table
 |  |
 | ------- |
