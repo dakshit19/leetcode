@@ -15,6 +15,7 @@ leetcode solutions
 | [0047-permutations-ii](https://github.com/dakshit19/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/dakshit19/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dakshit19/leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/dakshit19/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dakshit19/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/dakshit19/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0088-merge-sorted-array) |
@@ -42,6 +43,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/dakshit19/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/dakshit19/leetcode/tree/master/0162-find-peak-element) |
 | [1004-max-consecutive-ones-iii](https://github.com/dakshit19/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
@@ -268,6 +270,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dakshit19/leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/dakshit19/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/dakshit19/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/dakshit19/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dakshit19/leetcode/tree/master/0733-flood-fill) |
