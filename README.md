@@ -28,6 +28,7 @@ leetcode solutions
 | [0169-majority-element](https://github.com/dakshit19/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/dakshit19/leetcode/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dakshit19/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/dakshit19/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dakshit19/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/dakshit19/leetcode/tree/master/0542-01-matrix) |
@@ -45,6 +46,7 @@ leetcode solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/dakshit19/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/dakshit19/leetcode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dakshit19/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/dakshit19/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
@@ -109,6 +111,7 @@ leetcode solutions
 | [0053-maximum-subarray](https://github.com/dakshit19/leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/dakshit19/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dakshit19/leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dakshit19/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -272,6 +275,7 @@ leetcode solutions
 | [0054-spiral-matrix](https://github.com/dakshit19/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/dakshit19/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/dakshit19/leetcode/tree/master/0130-surrounded-regions) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dakshit19/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/dakshit19/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dakshit19/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/dakshit19/leetcode/tree/master/0994-rotting-oranges) |
