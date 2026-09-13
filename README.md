@@ -18,6 +18,7 @@ leetcode solutions
 | [0074-search-a-2d-matrix](https://github.com/dakshit19/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dakshit19/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/dakshit19/leetcode/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/dakshit19/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/dakshit19/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshit19/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -45,6 +46,7 @@ leetcode solutions
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/dakshit19/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/dakshit19/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/dakshit19/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dakshit19/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/dakshit19/leetcode/tree/master/1004-max-consecutive-ones-iii) |
