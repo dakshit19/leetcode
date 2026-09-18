@@ -39,6 +39,7 @@ leetcode solutions
 | [1004-max-consecutive-ones-iii](https://github.com/dakshit19/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshit19/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dakshit19/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/dakshit19/leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dakshit19/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dakshit19/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
@@ -50,6 +51,7 @@ leetcode solutions
 | [0162-find-peak-element](https://github.com/dakshit19/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dakshit19/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/dakshit19/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/dakshit19/leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 ## Math
 |  |
 | ------- |
