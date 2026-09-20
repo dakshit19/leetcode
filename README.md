@@ -42,6 +42,7 @@ leetcode solutions
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/dakshit19/leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dakshit19/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dakshit19/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/dakshit19/leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ leetcode solutions
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dakshit19/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dakshit19/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/dakshit19/leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/dakshit19/leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Two Pointers
 |  |
 | ------- |
