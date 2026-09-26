@@ -31,6 +31,7 @@ leetcode solutions
 | [0229-majority-element-ii](https://github.com/dakshit19/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dakshit19/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/dakshit19/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/dakshit19/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/dakshit19/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/dakshit19/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dakshit19/leetcode/tree/master/0733-flood-fill) |
@@ -51,6 +52,7 @@ leetcode solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dakshit19/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/dakshit19/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dakshit19/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/dakshit19/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/dakshit19/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/dakshit19/leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 ## Math
@@ -83,6 +85,7 @@ leetcode solutions
 | [0151-reverse-words-in-a-string](https://github.com/dakshit19/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dakshit19/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/dakshit19/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0986-interval-list-intersections](https://github.com/dakshit19/leetcode/tree/master/0986-interval-list-intersections) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dakshit19/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -194,6 +197,7 @@ leetcode solutions
 | [0078-subsets](https://github.com/dakshit19/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dakshit19/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/dakshit19/leetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/dakshit19/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/dakshit19/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
@@ -323,4 +327,9 @@ leetcode solutions
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/dakshit19/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/dakshit19/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/dakshit19/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
