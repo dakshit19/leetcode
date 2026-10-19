@@ -42,6 +42,7 @@ leetcode solutions
 | [0994-rotting-oranges](https://github.com/dakshit19/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/dakshit19/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshit19/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dakshit19/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dakshit19/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/dakshit19/leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dakshit19/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -57,6 +58,7 @@ leetcode solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/dakshit19/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/dakshit19/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/dakshit19/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dakshit19/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/dakshit19/leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 ## Math
 |  |
@@ -135,6 +137,7 @@ leetcode solutions
 | [0229-majority-element-ii](https://github.com/dakshit19/leetcode/tree/master/0229-majority-element-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshit19/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dakshit19/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dakshit19/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
