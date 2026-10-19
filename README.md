@@ -42,6 +42,7 @@ leetcode solutions
 | [0986-interval-list-intersections](https://github.com/dakshit19/leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/dakshit19/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/dakshit19/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/dakshit19/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshit19/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshit19/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dakshit19/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -181,6 +182,7 @@ leetcode solutions
 | [0221-maximal-square](https://github.com/dakshit19/leetcode/tree/master/0221-maximal-square) |
 | [0509-fibonacci-number](https://github.com/dakshit19/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/dakshit19/leetcode/tree/master/0542-01-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/dakshit19/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Counting
 |  |
 | ------- |
@@ -301,6 +303,7 @@ leetcode solutions
 | [0542-01-matrix](https://github.com/dakshit19/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dakshit19/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/dakshit19/leetcode/tree/master/0994-rotting-oranges) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/dakshit19/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dakshit19/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Heap (Priority Queue)
 |  |
