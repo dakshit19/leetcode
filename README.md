@@ -31,6 +31,7 @@ leetcode solutions
 | [0189-rotate-array](https://github.com/dakshit19/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dakshit19/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dakshit19/leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/dakshit19/leetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/dakshit19/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dakshit19/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/dakshit19/leetcode/tree/master/0283-move-zeroes) |
@@ -177,6 +178,7 @@ leetcode solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/dakshit19/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/dakshit19/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dakshit19/leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/dakshit19/leetcode/tree/master/0221-maximal-square) |
 | [0509-fibonacci-number](https://github.com/dakshit19/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/dakshit19/leetcode/tree/master/0542-01-matrix) |
 ## Counting
@@ -294,6 +296,7 @@ leetcode solutions
 | [0054-spiral-matrix](https://github.com/dakshit19/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/dakshit19/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/dakshit19/leetcode/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/dakshit19/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dakshit19/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/dakshit19/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dakshit19/leetcode/tree/master/0733-flood-fill) |
