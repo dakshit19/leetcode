@@ -48,6 +48,7 @@ leetcode solutions
 | [2149-rearrange-array-elements-by-sign](https://github.com/dakshit19/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/dakshit19/leetcode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dakshit19/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/dakshit19/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dakshit19/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/dakshit19/leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Binary Search
@@ -212,6 +213,7 @@ leetcode solutions
 | [0136-single-number](https://github.com/dakshit19/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/dakshit19/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/dakshit19/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/dakshit19/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
