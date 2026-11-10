@@ -36,6 +36,7 @@ leetcode solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/dakshit19/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/dakshit19/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/dakshit19/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/dakshit19/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/dakshit19/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/dakshit19/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/dakshit19/leetcode/tree/master/0733-flood-fill) |
@@ -138,6 +139,7 @@ leetcode solutions
 | [0148-sort-list](https://github.com/dakshit19/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dakshit19/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dakshit19/leetcode/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/dakshit19/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dakshit19/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshit19/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dakshit19/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -181,6 +183,7 @@ leetcode solutions
 | [0198-house-robber](https://github.com/dakshit19/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dakshit19/leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/dakshit19/leetcode/tree/master/0221-maximal-square) |
+| [0435-non-overlapping-intervals](https://github.com/dakshit19/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/dakshit19/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/dakshit19/leetcode/tree/master/0542-01-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/dakshit19/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -318,6 +321,7 @@ leetcode solutions
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/dakshit19/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dakshit19/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
