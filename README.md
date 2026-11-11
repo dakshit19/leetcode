@@ -22,6 +22,7 @@ leetcode solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dakshit19/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dakshit19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/dakshit19/leetcode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/dakshit19/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshit19/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/dakshit19/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/dakshit19/leetcode/tree/master/0130-surrounded-regions) |
@@ -178,6 +179,7 @@ leetcode solutions
 | [0053-maximum-subarray](https://github.com/dakshit19/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/dakshit19/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dakshit19/leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/dakshit19/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dakshit19/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dakshit19/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/dakshit19/leetcode/tree/master/0198-house-robber) |
